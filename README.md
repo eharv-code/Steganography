@@ -9,3 +9,5 @@ JavaScript, HTML, and CSS.
 
 Included here are the slide deck I used to present my project entitled Hidden Messages everywhere. The HTML entitled Index, the JavaScript entitled JS, the library I used called steganographymin.js (referencing the fact it is a minified version of
 the library for optimization purposes) the CSS entitled Style, and an assortment of skeleton keys. The skeleton keys that are encrypted contain (e) in their file titles. There is one ornate lock plate image as well.  
+
+![191787516-6cfeeec9-6df3-490b-812f-f2969337151b](https://github.com/user-attachments/assets/0d50151f-39f8-4087-b1ce-e332d9b279cc)
