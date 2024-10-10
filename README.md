@@ -7,6 +7,8 @@ This is what led me to pick steganography - that is using images that have encod
 There are of course better and more cannonical tools already out there such as steghide that accomplish this task that come pre-loaded in Linux operating systems however, I took a chance with a frontend implementation that leverage my knowlege of 
 JavaScript, HTML, and CSS.
 
+The pre-written JavaScript library I used for my implementation can be found <a href=https://www.peter-eigenschink.at/projects/steganographyjs>here</a>.
+
 Included here are the slide deck I used to present my project entitled Hidden Messages everywhere. The HTML entitled Index, the JavaScript entitled JS, the library I used called steganographymin.js (referencing the fact it is a minified version of
 the library for optimization purposes) the CSS entitled Style, and an assortment of skeleton keys. The skeleton keys that are encrypted contain (e) in their file titles. There is one ornate lock plate image as well.  
 
